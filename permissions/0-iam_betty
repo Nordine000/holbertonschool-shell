@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -rwxr--r-- betty
+chown -1 betty
