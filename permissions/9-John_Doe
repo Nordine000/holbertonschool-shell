@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -rwxr-x-wx /tmp/hello
+chmod u=rwxr g=x o=wx /tmp/hello
