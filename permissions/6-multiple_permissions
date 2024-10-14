@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 771 /tmp/hello
+chmod o+rx
