@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *.png > root
+rm *.js > root
