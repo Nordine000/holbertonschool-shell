@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -type f |  wc -la
+find . -type d -type f -maxdepth |  wc -la
