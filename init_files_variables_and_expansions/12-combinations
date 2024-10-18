@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {one...z} {a...z} | tr -d ' ' '\' | grep -v "Oo" | trier 
+echo {one...z} {a...z} | tr -d ' ' '\n' | grep -v "Oo" | trier 
