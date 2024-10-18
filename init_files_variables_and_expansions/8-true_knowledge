@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH\n | export TRUEKNOWLEDGE=128
+echo $((TRUEKNOWLEDGE + 128))
